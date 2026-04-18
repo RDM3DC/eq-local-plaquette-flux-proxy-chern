@@ -8,3 +8,6 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+
+# Manim intermediate output (the final GIF/MP4 is committed under images/)
+media/
