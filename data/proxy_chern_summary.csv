@@ -1,0 +1,4 @@
+label,L,m,n_plaquettes_total,n_plaquettes_kept,C_loc,C_loc_full
+healthy,48,-1.5,2304,2304,-1.000000,-1.000000
+central_strip,48,-1.5,2304,1920,-0.452119,-1.000000
+top_edge,48,-1.5,2304,2208,-0.994862,-1.000000
